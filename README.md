@@ -1,6 +1,5 @@
-# JavaScript ❤ | Web apps | Cloud | Serverless
+# JavaScript ❤ | Web apps | Cloud | Serverless [![wakatime](https://wakatime.com/badge/user/745e48a8-2e49-4f7a-acc8-5c472af0f672.svg)](https://wakatime.com/@745e48a8-2e49-4f7a-acc8-5c472af0f672)
 
-![gcacars's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gcacars&layout=compact&langs_count=8&line_height=25&custom_title=Wakatime+Stats+(last+7+days))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcacars&langs_count=8&layout=compact)](https://github.com/gcacars)
 
 
@@ -8,16 +7,19 @@
 
 ### At work 👨‍💼
 
-- Microsoft Teams integration to LMS (High Education)
-- E-commerce project
+- ServiceNow implementations
 
 ### At home 🏠
 
+- Base packages for internal use of a big project
+- Express.js configuration + Security + JWT/JWE/JWS
 - OpenID Provider/OAuth 2.1/SCIM for personal projects
-- Menu app for restaurants
 
 ## 🌱 I’m currently learning
 
+- Cryptography
+- Express.js best practices
+- OAuth Token Exchange
 - OAuth 2.0/2.1
 - OpenID Connect | Discovery | RISC | FAPI
 - JWT, JWS, JWE, JWA
@@ -26,7 +28,7 @@
 
 ## 🤔 I’m looking for help with
 
-- Cryptography and TLS
+- Cryptography and TLS (and mTLS)
 
 ## ⚡ Fun fact
 
